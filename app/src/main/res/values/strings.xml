@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">BrainTeaser</string>
+    <string name="odd_man_question">Which one does not belong?</string>
+    <string name="pay_attention">Pay Attention ! Click Go</string>
+    <string name="startTxt">Let\'s Start Masti</string>
+    <string-array name="question_array">
+        <item>What is the text colour of Red ?</item>
+        <item>Which character does not belong ?</item>
+        <item>Which  does not belong?</item>
+        <item>How many red ballons are there?</item>
+        <item>Which item not belong?</item>
+    </string-array>
+    <string-array name="colour_txt_option_array">
+        <item>BLUE</item>
+        <item>RED</item>
+        <item>GREEN</item>
+    </string-array>
+    <string-array name="ballon_count_option_array">
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="animal_odd_option_array">
+        <item>Elephant</item>
+        <item>Lion</item>
+        <item>Fish</item>
+    </string-array>
+    <string-array name="cartoon_odd_option_array">
+        <item>JERRY</item>
+        <item>BahuBali</item>
+        <item>Chota Beem</item>
+    </string-array>
+    <string-array name="food_odd_option_array">
+        <item>Pizza</item>
+        <item>Milk</item>
+        <item>Burger</item>
+    </string-array>
+       <string-array name="answer_array">
+        <item>Green</item>
+        <item>BahuBali</item>
+        <item>Fish</item>
+        <item>2</item>
+        <item>Milk</item>
+    </string-array>
+   </resources>
